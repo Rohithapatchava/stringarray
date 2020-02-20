@@ -1,0 +1,6 @@
+C:\Users\Admin\source\repos\stringarray\stringarray\bin\Debug\stringarray.exe.config
+C:\Users\Admin\source\repos\stringarray\stringarray\bin\Debug\stringarray.exe
+C:\Users\Admin\source\repos\stringarray\stringarray\bin\Debug\stringarray.pdb
+C:\Users\Admin\source\repos\stringarray\stringarray\obj\Debug\stringarray.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\stringarray\stringarray\obj\Debug\stringarray.exe
+C:\Users\Admin\source\repos\stringarray\stringarray\obj\Debug\stringarray.pdb
